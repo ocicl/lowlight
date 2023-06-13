@@ -1,0 +1,10 @@
+* lowlight
+
+A simple syntax highlighter in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/chfin/lowlight.git   |
+| commit  | c3dddad  |
+| systems | lowlight |
+|---------+-------------------------------------------|
+
